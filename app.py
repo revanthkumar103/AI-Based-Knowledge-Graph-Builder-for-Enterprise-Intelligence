@@ -1,1 +1,1 @@
-# testing github sync
+# git sync is succesfully enabled.
